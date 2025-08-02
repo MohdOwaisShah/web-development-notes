@@ -28,7 +28,8 @@ a = 'owais'
 <summary>primitive</summary>
 
 * `there are 7 primitive data types:`
-<ol>
+<strong> 
+<ol value="number">
 <li>String</li>
 <li>Number</li>
 <li>Bolean</li>
@@ -37,6 +38,7 @@ a = 'owais'
 <li>Symbol</li>
 <li>BigInt</li>
 </ol>
+</strong>
 </details>
 
 <details>
