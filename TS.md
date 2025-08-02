@@ -25,11 +25,10 @@ a = 'owais'
 
 <ol>
 <details>
-<summary>primitive</summary>
+<summary>Primitive</summary>
 
 * `there are 7 primitive data types:`
-<strong> 
-<ol value="number">
+<ol value="1">
 <li>String</li>
 <li>Number</li>
 <li>Bolean</li>
@@ -38,11 +37,10 @@ a = 'owais'
 <li>Symbol</li>
 <li>BigInt</li>
 </ol>
-</strong>
 </details>
 
 <details>
-<summary>non-primitive or refrence (both are not same in some cases)</summary>
+<summary>Non-primitive or refrence (both are not same in some cases)</summary>
 <strong>note: every three bracets are refrence that effects on parent <b>() {} [] <b> </strong> 
 
 * `example:`
