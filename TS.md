@@ -23,7 +23,7 @@ a = 'owais'
 
 ###  2. Data types
 
-<ol value="number">
+<ol>
 <li>premitive</li>
 <li>non-premitive</li>
 <li>refrence</li>
