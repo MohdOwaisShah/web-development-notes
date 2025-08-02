@@ -26,9 +26,8 @@ a = 'owais'
 <ol>
 <li>premitive</li>
 <li>non-premitive</li>
+<details>
 <li>refrence</li>
-</ol>
-
 <strong>note: every three bracets are refrence that effects on parent </strong> 
 
 * `example:`
@@ -38,3 +37,5 @@ a = 'owais'
   b.pop() // this will effect on variable (a) too.
   console.log(a, b)
 ```
+</details>
+</ol>
