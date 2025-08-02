@@ -3,7 +3,7 @@
 
 * `javascript made in 10 days thats why there is some problems:`
 
-<h4>- redeclaration the same variable </h4>
+<strong>- redeclaration the same variable </strong>
 
 ```javascript
 var a = 10
@@ -23,9 +23,11 @@ a = 'owais'
 
 ###  2. Data types
 
-<h5>1. premitive</h5>
-<h5>2. non-premitive</h5>
-<h5>3. refrence</h5>
+<ol value="number">
+<li>premitive</li>
+<li>non-premitive</li>
+<li>refrence</li>
+</ol>
 
 <strong>note: every three bracets are refrence that effects on parent </strong> 
 
