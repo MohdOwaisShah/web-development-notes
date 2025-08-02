@@ -11,14 +11,14 @@ var a = 12
 // this will show error in another language
 ```
 
-* `2nd example:`
+`2nd example:`
 ```javascript
 // this is also works in js
 var a = 10
 a = 'owais'
 ```
-* `etc..`
-* `In typescript it is providing a layer in js like its advance version where these types of things is not working and TS also provides more features.`
+`etc..`
+`In typescript it is providing a layer in js like its advance version where these types of things is not working and TS also provides more features.`
 
 
 ###  2. Data types
@@ -42,7 +42,7 @@ a = 'owais'
 <summary>Non-primitive or refrence (both are not same in some cases)</summary>
 <strong>note: every three bracets are refrence that effects on parent <b>() {} [] <b> </strong> 
 
-* `example:`
+`example:`
 ```javascript
   let a = [1,2,3,4,5];
   let b = a;
