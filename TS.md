@@ -24,10 +24,16 @@ a = 'owais'
 ###  2. Data types
 
 <ol>
-<li>premitive</li>
-<li>non-premitive</li>
 <details>
-<li>refrence</li>
+<summary>premitive</summary>
+</details>
+
+<details>
+<summary>non-premitive</summary>
+</details>
+
+<details>
+<summary>refrence</summary>
 <strong>note: every three bracets are refrence that effects on parent </strong> 
 
 * `example:`
