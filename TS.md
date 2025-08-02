@@ -52,15 +52,16 @@ a = 'owais'
 </details>
 
 ###  3. Tuples
-* `We are declaring the tuples like this:`
-<b>Using tuple we have full control</b>
+<strong>We are declaring the tuples like this:</strong>
+
+*`Using tuple we have full control`
 
 ```javascript
 // using []
 let user: [string, number] = ["Owais", 20]; // A name and an age
 ```
 
-<b>If the value is not matching the types it gives error</b>
+*`If the value is not matching the types it gives error`
 
 ```javascript
 // ❌ it gives error
