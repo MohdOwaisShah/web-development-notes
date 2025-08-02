@@ -1,9 +1,9 @@
 # Type Script
 ### 1. Typescript is a advance version of javascript
 
-* `javascript made in 10 days thats why there is some problems:`
+<strong>javascript made in 10 days thats why there is some problems: </strong>
 
-<strong>- redeclaration the same variable </strong>
+# `- redeclaration the same variable`
 
 ```javascript
 var a = 10
@@ -25,16 +25,23 @@ a = 'owais'
 
 <ol>
 <details>
-<summary>premitive</summary>
+<summary>primitive</summary>
+
+* `there are 7 primitive data types:`
+<ol>
+<li>String</li>
+<li>Number</li>
+<li>Bolean</li>
+<li>Null</li>
+<li>Undefined</li>
+<li>Symbol</li>
+<li>BigInt</li>
+</ol>
 </details>
 
 <details>
-<summary>non-premitive</summary>
-</details>
-
-<details>
-<summary>refrence</summary>
-<strong>note: every three bracets are refrence that effects on parent </strong> 
+<summary>non-primitive or refrence (both are not same in some cases)</summary>
+<strong>note: every three bracets are refrence that effects on parent <b>() {} [] <b> </strong> 
 
 * `example:`
 ```javascript
