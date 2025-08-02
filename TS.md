@@ -27,16 +27,15 @@ a = 'owais'
 <details>
 <summary>Primitive</summary>
 
-* `there are 7 primitive data types:`
-<ol value="1">
-<li>String</li>
-<li>Number</li>
-<li>Bolean</li>
-<li>Null</li>
-<li>Undefined</li>
-<li>Symbol</li>
-<li>BigInt</li>
-</ol>
+<p>there are 7 primitive data types: </p>
+
+* `String`
+* `Number`
+* `Bolean`
+* `Null`
+* `Undefined`
+* `Symbol`
+* `BigInt`
 </details>
 
 <details>
