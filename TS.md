@@ -3,7 +3,7 @@
 
 <strong>javascript made in 10 days thats why there is some problems: </strong>
 
-# `- redeclaration the same variable`
+* `- redeclaration the same variable:`
 
 ```javascript
 var a = 10
@@ -23,19 +23,19 @@ a = 'owais'
 
 ###  2. Data types
 
-<ol>
+
 <details>
 <summary>Primitive</summary>
 
 <p>there are 7 primitive data types: </p>
 
-* `String`
-* `Number`
-* `Bolean`
-* `Null`
-* `Undefined`
-* `Symbol`
-* `BigInt`
+* `1. String`
+* `2. Number`
+* `3. Bolean`
+* `4. Null`
+* `5. Undefined`
+* `6. Symbol`
+* `7. BigInt`
 </details>
 
 <details>
@@ -50,4 +50,20 @@ a = 'owais'
   console.log(a, b)
 ```
 </details>
-</ol>
+
+###  3. Tuples
+* `We are declaring the tuples like this:`
+<b>Using tuple we have full control</b>
+
+```javascript
+// using []
+let user: [string, number] = ["Owais", 20]; // A name and an age
+```
+
+<b>If the value is not matching the types it gives error</b>
+
+```javascript
+// ❌ it gives error
+let user: [string, number] = [20, "Owais"]; 
+let user: [string, number] = ["Owais", "Owais"]; // A name and an age
+```
