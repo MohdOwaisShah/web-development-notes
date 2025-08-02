@@ -3,7 +3,7 @@
 
 <strong>javascript made in 10 days thats why there is some problems: </strong>
 
-* `- redeclaration the same variable:`
+- `redeclaration the same variable:`
 
 ```javascript
 var a = 10
@@ -54,14 +54,14 @@ a = 'owais'
 ###  3. Tuples
 <strong>We are declaring the tuples like this:</strong>
 
-*`Using tuple we have full control`
+`Using tuple we have full control`
 
 ```javascript
 // using []
 let user: [string, number] = ["Owais", 20]; // A name and an age
 ```
 
-*`If the value is not matching the types it gives error`
+`If the value is not matching the types it gives error`
 
 ```javascript
 // ❌ it gives error
